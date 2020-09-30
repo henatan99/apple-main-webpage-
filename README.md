@@ -35,7 +35,7 @@ The features of this project are listed as below:
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/henatan99/apple-main-webpage-/8d49239202832bcc592840d752ddbe1cabab6082/index.html)
+[Live Demo Link](https://henatan99.github.io/apple-main-webpage-/)
 
 ## Getting Started
 
