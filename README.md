@@ -1,4 +1,3 @@
-# apple-main-webpage-
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
