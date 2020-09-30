@@ -1,7 +1,5 @@
 # apple-main-webpage-
 
-This project is about cloning the main web page of apple.com. The main features of the page are 1. The navigation bar 2. The main background image and 3. other content layouts about the products.
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Apple first Home page CSS background image and gradients project
@@ -43,10 +41,6 @@ The features of this project are listed as below:
 ## Getting Started
 
 **Just clone this repo and open index.html file in your browser then you are good to go.**
-
-**To get a local copy up and running follow these simple example steps.**
-
-### clone the repo.
 
 ## Authors
 
