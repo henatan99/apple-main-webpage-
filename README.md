@@ -5,7 +5,7 @@
 
 ## Definition
 
-This project is about cloning the Apple first home page. It has the tile of the page shown very bold and discriptive picture. some other promo images are also embeded gradient and background images are porperly used along with other elements. Below are other features of the page.
+This project is about cloning the Apple first home page. It has the tile of the page shown very bold and descriptive picture. some other promo images are also embedded gradient and background images are properly used along with other elements. Below are other features of the page.
 
 ## About the Project
 
@@ -25,8 +25,8 @@ The features of this project are listed as below:
 3. Apple Page nav section
    - Nav links to many other pages aligned in a flex row direction
 4. Has a footer with
-   - Nav links to Legal, Privacy and Security
-   - Copy right information statement
+   - Nav links to Legal, Privacy, and Security
+   - Copy the right information statement
 
 ## Built With
 
@@ -39,7 +39,7 @@ The features of this project are listed as below:
 
 ## Getting Started
 
-**Just clone this repo and open index.html file in your browser then you are good to go.**
+**Just clone this repo and open the index.html file in your browser then you are good to go.**
 
 ## Authors
 
@@ -66,7 +66,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - icons used from [iconify](https://fontawesome.com/)
-- And every other images like hero image where downloaded from the the times official site
+- And every other image like hero image where downloaded from the time's official site
 
 ## 📝 License
 
